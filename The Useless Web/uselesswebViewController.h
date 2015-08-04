@@ -10,4 +10,8 @@
 
 @interface uselesswebViewController : UIViewController
 
+@property (nonatomic,retain) IBOutlet UIButton *btn;
+
+-(IBAction)gotoweb:(id)sender;
+
 @end

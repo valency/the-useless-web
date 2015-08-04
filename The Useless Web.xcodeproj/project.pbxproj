@@ -18,6 +18,11 @@
 		8FD2394F169D8DA200E4A2E2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD2394E169D8DA200E4A2E2 /* Default-568h@2x.png */; };
 		8FD23952169D8DA200E4A2E2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FD23950169D8DA200E4A2E2 /* MainStoryboard.storyboard */; };
 		8FD23955169D8DA200E4A2E2 /* uselesswebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD23954169D8DA200E4A2E2 /* uselesswebViewController.m */; };
+		8FD23961169D900200E4A2E2 /* webViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD23960169D900200E4A2E2 /* webViewController.m */; };
+		8FD23967169D992300E4A2E2 /* btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD23966169D992300E4A2E2 /* btn.png */; };
+		8FD23969169D992900E4A2E2 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD23968169D992900E4A2E2 /* title.png */; };
+		8FD2396F169D9D3600E4A2E2 /* logo-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD2396E169D9D3600E4A2E2 /* logo-57.png */; };
+		8FD23971169D9D3D00E4A2E2 /* logo-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD23970169D9D3D00E4A2E2 /* logo-114.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,16 @@
 		8FD23951169D8DA200E4A2E2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		8FD23953169D8DA200E4A2E2 /* uselesswebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = uselesswebViewController.h; sourceTree = "<group>"; };
 		8FD23954169D8DA200E4A2E2 /* uselesswebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = uselesswebViewController.m; sourceTree = "<group>"; };
+		8FD2395F169D900200E4A2E2 /* webViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = webViewController.h; sourceTree = "<group>"; };
+		8FD23960169D900200E4A2E2 /* webViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = webViewController.m; sourceTree = "<group>"; };
+		8FD23966169D992300E4A2E2 /* btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn.png; sourceTree = "<group>"; };
+		8FD23968169D992900E4A2E2 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
+		8FD2396A169D9D2400E4A2E2 /* logo.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = logo.psd; sourceTree = "<group>"; };
+		8FD2396B169D9D2400E4A2E2 /* logo-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-57.png"; sourceTree = "<group>"; };
+		8FD2396C169D9D2400E4A2E2 /* logo-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-1024.png"; sourceTree = "<group>"; };
+		8FD2396D169D9D2400E4A2E2 /* logo-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-114.png"; sourceTree = "<group>"; };
+		8FD2396E169D9D3600E4A2E2 /* logo-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-57.png"; path = "../logo-57.png"; sourceTree = "<group>"; };
+		8FD23970169D9D3D00E4A2E2 /* logo-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-114.png"; path = "../logo-114.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +103,8 @@
 				8FD23950169D8DA200E4A2E2 /* MainStoryboard.storyboard */,
 				8FD23953169D8DA200E4A2E2 /* uselesswebViewController.h */,
 				8FD23954169D8DA200E4A2E2 /* uselesswebViewController.m */,
+				8FD2395F169D900200E4A2E2 /* webViewController.h */,
+				8FD23960169D900200E4A2E2 /* webViewController.m */,
 				8FD2393F169D8DA100E4A2E2 /* Supporting Files */,
 			);
 			path = "The Useless Web";
@@ -103,6 +120,14 @@
 				8FD2394A169D8DA200E4A2E2 /* Default.png */,
 				8FD2394C169D8DA200E4A2E2 /* Default@2x.png */,
 				8FD2394E169D8DA200E4A2E2 /* Default-568h@2x.png */,
+				8FD23966169D992300E4A2E2 /* btn.png */,
+				8FD23968169D992900E4A2E2 /* title.png */,
+				8FD2396A169D9D2400E4A2E2 /* logo.psd */,
+				8FD2396B169D9D2400E4A2E2 /* logo-57.png */,
+				8FD23970169D9D3D00E4A2E2 /* logo-114.png */,
+				8FD2396E169D9D3600E4A2E2 /* logo-57.png */,
+				8FD2396C169D9D2400E4A2E2 /* logo-1024.png */,
+				8FD2396D169D9D2400E4A2E2 /* logo-114.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -164,6 +189,10 @@
 				8FD2394D169D8DA200E4A2E2 /* Default@2x.png in Resources */,
 				8FD2394F169D8DA200E4A2E2 /* Default-568h@2x.png in Resources */,
 				8FD23952169D8DA200E4A2E2 /* MainStoryboard.storyboard in Resources */,
+				8FD23967169D992300E4A2E2 /* btn.png in Resources */,
+				8FD23969169D992900E4A2E2 /* title.png in Resources */,
+				8FD2396F169D9D3600E4A2E2 /* logo-57.png in Resources */,
+				8FD23971169D9D3D00E4A2E2 /* logo-114.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +206,7 @@
 				8FD23945169D8DA100E4A2E2 /* main.m in Sources */,
 				8FD23949169D8DA100E4A2E2 /* uselesswebAppDelegate.m in Sources */,
 				8FD23955169D8DA200E4A2E2 /* uselesswebViewController.m in Sources */,
+				8FD23961169D900200E4A2E2 /* webViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +288,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "The Useless Web/The Useless Web-Prefix.pch";
 				INFOPLIST_FILE = "The Useless Web/The Useless Web-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -269,6 +300,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "The Useless Web/The Useless Web-Prefix.pch";
 				INFOPLIST_FILE = "The Useless Web/The Useless Web-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
